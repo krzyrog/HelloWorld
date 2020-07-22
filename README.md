@@ -2,7 +2,7 @@
 topic: HTML Hello World
 languages:
   - HTML
-products:
+products: 
   - Azure App Service
   - Azure Web Apps
 ---
